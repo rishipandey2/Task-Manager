@@ -12,8 +12,8 @@ This is a simple Task Manager application built for Android using Kotlin. The ap
 - **RecyclerView with Adapter**: Use a RecyclerView to efficiently display the list of tasks and handle user interactions like deletions.
 
 ## Screenshots
-![Screenshot 1](TaskManager/Screenshots/HomeScreen.png)
-![Screenshot 2](TaskManager/Screenshots/AddTask)
+![Screenshot 1](Screenshots/HomeScreen.jpeg)
+![Screenshot 2](Screenshots/AddTask.jpeg)
 
 
 ## Prerequisites
